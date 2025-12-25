@@ -22,7 +22,10 @@ perspective for understanding:
 - Flow deviations  
 - Latent resource activation  
 - Constraint flexibility  
-- Long-term trend dynamics  
+- Long-term trend dynamics
+
+
+## Repository Structure
 
 /paper        — Full paper, drafts, and LaTeX sources
 /figures      — Diagrams, charts, and structural illustrations
@@ -47,6 +50,5 @@ added as the framework evolves.
 The framework is fully de-AI-ified, de-sensitized, and suitable for academic,
 theoretical, and applied system analysis.
 
-## Repository Structure
 
 
