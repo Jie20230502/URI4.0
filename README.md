@@ -24,6 +24,26 @@ perspective for understanding:
 - Constraint flexibility  
 - Long-term trend dynamics  
 
+/paper        — Full paper, drafts, and LaTeX sources
+/figures      — Diagrams, charts, and structural illustrations
+/src          — Supporting scripts, examples, or analytical tools
+/notes        — Research notes, conceptual sketches, and development logs
+
+
+## Citation
+
+If you reference URI4.0 in academic or research work, please cite using the
+`CITATION.cff` file included in this repository.
+
+## Copyright
+
+See the COPYRIGHT section below for full details.
+
+## Status
+
+This repository is published to establish authorship, provide an official timestamp,
+and preserve the provenance of the URI4.0 framework. Additional materials will be
+added as the framework evolves.
 The framework is fully de-AI-ified, de-sensitized, and suitable for academic,
 theoretical, and applied system analysis.
 
