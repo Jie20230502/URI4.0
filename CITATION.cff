@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "URI4.0: A Multi-Dimensional Structural Analysis Schema for Complex Systems"
+message: "If you use URI4.0 in your research, please cite this work."
+authors:
+  - family-names: "Leo"
+    given-names: ""
+version: "1.0.0"
+date-released: "2025-01-01"
+doi: ""
+url: "https://github.com/your-username/uri4.0"
+preferred-citation:
+  type: article
+  title: "URI4.0: A Multi-Dimensional Structural Analysis Schema for Complex Systems"
+  authors:
+    - family-names: "Leo"
+      given-names: ""
+  year: 2025
+  journal: "Preprint"
