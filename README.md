@@ -50,5 +50,16 @@ added as the framework evolves.
 The framework is fully de-AI-ified, de-sensitized, and suitable for academic,
 theoretical, and applied system analysis.
 
+## Licensing Recommendation
+To support open adoption while preserving the integrity of the protocol, we recommend releasing URI4.0 and the L6 Structure Protocol under either CC BY‑ND or Apache 2.0, depending on the intended ecosystem direction.
+
+CC BY‑ND (Attribution–NoDerivatives)  
+Best suited if the goal is to maintain a stable, authoritative definition of the protocol and prevent uncontrolled modifications to the core L6 primitives or schema.
+
+Apache 2.0 License  
+Preferable if broad industry integration is desired, especially for AI vendors, toolchain developers, and system architects who may need to embed or extend the protocol within larger software systems.
+
+Both licenses support open distribution, but they differ in how they balance protocol stability and ecosystem flexibility.
+
 
 
